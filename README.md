@@ -1,4 +1,6 @@
 "# drag-drop-multiple-picture-upload-in-dropzone" 
+==================================================
+
 multiple pictures upload in dropzone and show in fancybox
 in Controller we have save
 we are saving each picture in add_more_images
